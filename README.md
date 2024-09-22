@@ -3,13 +3,10 @@
 > JAVA Practice Records
 
 * src/main/java/org/example/dynamicprogram
-* - MinimumNumberofTapstoOpentoWateraGarden
-     [minimum-number-of-taps-to-open-to-water-a-garden/description](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/description/)
+* - [MinimumNumberofTapstoOpentoWateraGarden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/description/)
 
 * src/main/java/org/example/linkedlist
-* - ConvertBinaryNumberinaLinkedListtoInteger
-    [convert-binary-number-in-a-linked-list-to-integer/description](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/)
+* - [ConvertBinaryNumberinaLinkedListtoInteger](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/)
 
 * src/main/java/org/example/Stack
-* - RemoveDuplicateLetters
-    [remove-duplicate-letters/description/description](https://leetcode.com/problems/remove-duplicate-letters/description/)
+* - [RemoveDuplicateLetters](https://leetcode.com/problems/remove-duplicate-letters/description/)
